@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+h1 {
+  font-size: 60px;
+  color : rgb(44, 19, 102);
+  text-align: center;
+  text-decoration: underline;
+  font-family: 'Leckerli One', cursive;
+  background-color: rgba(255,255,255,0.5)
+}
+
+
+
+
